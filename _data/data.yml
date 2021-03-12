@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Holden Graves
@@ -14,30 +14,11 @@ sidebar:
     # Sidebar links
     email: holdentg7@gmail.com
     phone: 
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: holdengraves
     github: holgrc
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
 
 career-profile:
     title: Career Profile
